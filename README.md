@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/5gcJFtm8/image.png" alt="Hampton Nexus Banner" width="100%">
 </p>
 
-# <p align="center">$\color{#00ff88}{\text{0xHAMPTON: The Oracle of Quantitative Shadows}}$</p>
+# <p align="center">$\color{#00ff88}{\text{hamptonism.sol: The Oracle of Quantitative Shadows}}$</p>
 > <p align="center"><i>"The future is not a destination; it is a liquidity event waiting to be priced."</i></p>
 
 **The terminal edge has a name.** 0xHAMPTON operates within the light-starved cracks of the global prediction substrate. He is the architect of the **Surmount** monolith—a subterranean infrastructure designed to strip the chaos from the markets and transmute it into a singular, cold-blooded signal.
@@ -42,6 +42,7 @@ He is the bridge between the high-tech neon of Seoul and the digital sovereignty
 * **Architect**: [Surmount Investment](https://x.com/SurmountInvest)
 * **Frequency**: Kalshi Research Node
 * **Terminal (X)**: [@hamptonism](https://x.com/hamptonism)
+* **SOL**: [hamptonism.sol](https://solscan.io/account/hamptonism.sol)
 
 ---
 
