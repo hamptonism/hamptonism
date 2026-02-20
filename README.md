@@ -1,48 +1,48 @@
-# <p align="center">$\color{#E67E22}{\text{Ikehaya | The Architect of Digital Heritage}}$</p>
-> <p align="center"><i>"The future of storytelling is not just watched; it is owned and evolved through the ledger."</i></p>
+# <p align="center">$\color{#E67E22}{\text{Ikehaya | Architect of the Decentralized IP Revolution}}$</p>
+> <p align="center"><i>"Bridging traditional broadcasting with AI-native production and blockchain-backed heritage."</i></p>
 
-**The narrative is decentralized.** Ikehaya operates at the intersection of cultural engineering and blockchain-native media. As the visionary behind **CryptoNinja**, he has architected Japan’s most resilient NFT ecosystem, transforming digital characters into a multi-media powerhouse spanning TV anime and high-fidelity TCGs.
+**The creator economy is evolving.** Ikehaya is a pioneer in the Japanese Web3 space, transforming the landscape of Intellectual Property through **CryptoNinja**. From producing national TV animation to engineering the next generation of AI-driven creative loops, he is redefining what it means to be a "digital architect" in the 21st century.
 
-Through the **Vibe** engine and **CNP (CryptoNinja Partners)**, he has effectively bridged the gap between traditional IP and web3 autonomy. He doesn't just build brands; he develops the infrastructure for communities to autonomously expand their own lore and economic value.
+Through **Vibe Inc.** and **Ninja DAO**, he leads a movement that empowers creators to own their lore, scale through AI, and build sustainable value on the ledger.
 
 ---
 
-### $\color{#E67E22}{\text{The Cultural Framework | 文化の枠組み}}$
+### $\color{#E67E22}{\text{Active Operations | 現在の活動}}$
 
-* **$\color{#E67E22}{\text{NFT Provenance}}$**: Lead visionary behind **CryptoNinja**, the bedrock of the Japanese NFT movement.
-* **$\color{#E67E22}{\text{Cross-Media Synthesis}}$**: Spearheading the transition of on-chain IP into mainstream TV anime and AI-driven production.
-* **$\color{#E67E22}{\text{Educational Infrastructure}}$**: Empowering a global audience of 30,000+ through the **Senseki** newsletter.
+* **$\color{#E67E22}{\text{Animation Production}}$**: Executive producer of **"CryptoNinja Saki"** (TV Anime) and lead developer of cutting-edge AI-native animation workflows.
+* **$\color{#E67E22}{\text{Physical Assets}}$**: Architect of **CNP TCG (Trading Card Game)**, bridging digital collectibles with high-fidelity physical gaming.
+* **$\color{#E67E22}{\text{Intelligence Broadcast}}$**: Host of the **"AI-Earning Radio"** podcast and author of the **Senseki (穿石)** newsletter, reaching 30,000+ subscribers daily.
 
 ---
 
 ### $\color{#E67E22}{\text{The Protocol Layer | プロトコル・レイヤー}}$
 
-* **CNP (CryptoNinja Partners)**: Leading the evolution of secondary IP ownership and utility.
-* **Vibe.co.jp**: Architecting the corporate substrate for the next generation of creative digital assets.
-* **AI Anime Integration**: Transforming traditional animation workflows into self-optimizing, AI-augmented creative loops.
+* **Vibe Inc.**: The corporate engine driving Web3 IP expansion and AI creative research.
+* **Ninja DAO**: One of the world’s most active decentralized communities, fostering a secondary-creation economy.
+* **CNP (CryptoNinja Partners)**: Japan's premier NFT project, maintaining a multi-million dollar market cap through utility and community.
 
 ---
 
 ### $\color{#E67E22}{\text{Key Transmissions | 主要な取り組み}}$
 
-* **CryptoNinja Saki**: Implementing decentralized IP that outpaces traditional studio models in speed and engagement.
-* **CNP Trading Card Game**: Research into physical-digital bridge mechanics for long-term collectible value.
-* **Quantitative Community Growth**: Defining the technical and social narrative for the era of "Ninja" dominance.
+* **CryptoNinja Saki (TV Anime)**: Breaking the boundaries between community-led IP and mainstream broadcast television.
+* **AI Anime Integration**: Pioneering the use of generative AI to streamline anime production for the decentralized era.
+* **Senseki Newsletter**: The primary intelligence feed for the Japanese Web3 and AI sectors.
 
 ---
 
-# <p align="center">$\color{#E67E22}{\text{Operations | 実行ターミナル}}$</p>
+# <p align="center">$\color{#E67E22}{\text{Connect Terminal | 接続ターミナル}}$</p>
 
-* **Founder**: [CryptoNinja](https://www.cryptoninja.jp/)
-* **Project Alpha**: [CNP (CryptoNinja Partners)](https://x.com/cnp_ninjadao)
-* **Terminal (X)**: [@IHayato](https://x.com/ihayato)
-* **Intelligence**: [Official Mag / Newsletter](https://mag.ikehaya.com/lp/vNvAqttZ)
 * **Corporate**: [Vibe Inc.](https://vibe.co.jp/)
+* **Newsletter**: [Senseki (穿石) - 30k+ Readers](https://x.gd/HtTYI)
+* **Official IP**: [CryptoNinja Saki TV](https://cryptoninja-sakuya.xyz/)
+* **TCG**: [CNP Trading Card Game](https://cnptcg.monolithos.co.jp/)
+* **Terminal (X)**: [@IHayato](https://x.com/ihayato)
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100">
   <br>
-  <code>SYSTEM STATUS: MINTING DIGITAL LEGACY...</code>
+  <code>SYSTEM STATUS: SYNTHESIZING AI NARRATIVES...</code>
 </p>
